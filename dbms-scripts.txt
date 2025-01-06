@@ -1,0 +1,18 @@
+
+validation.sh --> all helper functions that is needed across multiple scripts
+
+dbmenu.sh --> main page for displaying database options, choosing an option will run its corresponding script 
+Create_DB.sh --> ask for the db name , validate the name (validation.sh), create a directory inside a Databases directory (mkdir -p Databases/$dbname)
+List_DB.sh
+Drop_DB.sh
+Connect_DB.sh
+
+tablemenu.sh --> main page for displaying table options, choosing an option will run its corresponding script
+Create_Table.sh
+List_Table.sh
+Insert_Table.sh
+Delete_Table.sh
+Update_Table.sh
+Drop_Table.sh
+Select_Table.sh
+
