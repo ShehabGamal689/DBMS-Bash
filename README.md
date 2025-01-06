@@ -9,7 +9,7 @@ This project aims to develop a Database Management System (DBMS) that enables us
 ### Clone the Repository:
 
 ```
-
+git clone git@github.com:ShehabGamal689/DBMS-Bash.git
 cd dbms-bash
 ```
 
